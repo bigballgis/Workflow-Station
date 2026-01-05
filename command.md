@@ -1,0 +1,1 @@
+按 Kiro Specs 模式开发【功能名称】，例如：按 Kiro Specs 模式开发用户登录模块
